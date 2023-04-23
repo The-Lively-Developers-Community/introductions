@@ -12,20 +12,20 @@ export default function ProfileCard() {
           //  Profile Card
           <div
             key={index}
-            class="flex  flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+            className="flex  flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
           >
             <Image
-              class="ml-3 rounded-md w-32 mt-5 md:mt-0 "
+              className="ml-3 rounded-md w-32 mt-5 md:mt-0 "
               src={`https://github.com/${profile.GitHubUserName}.png`}
               width={500}
               height={500}
               alt={profile.GitHubUserName}
             />
-            <div class="flex flex-col justify-between p-4 leading-normal">
-              <p class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <div className="flex flex-col justify-between p-4 leading-normal">
+              <p className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 {profile.GitHubUserName}
               </p>
-              <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+              <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 {profile.bio}
               </p>
               <span className="flex gap-5">
