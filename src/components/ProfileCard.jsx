@@ -16,7 +16,7 @@ export default function ProfileCard() {
           >
             <Image
               className="ml-3 rounded-md w-32 mt-5 md:mt-0 "
-              src={`https://github.com/${profile.GitHubUserName}.png`}
+              src={`https://github.com/${profile.GitHubUserName}.png`} // show image from github avatar
               width={500}
               height={500}
               alt={profile.GitHubUserName}
