@@ -28,7 +28,7 @@ export default function ProfileCard() {
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 {profile.bio}
               </p>
-              <span className="flex gap-5">
+              <span className="flex gap-5 dark:text-white">
                 <a
                   href={`https://github.com/${profile.GitHubUserName}`}
                   target="_blank"
@@ -51,7 +51,7 @@ export default function ProfileCard() {
                   <FaLinkedin size={30} />
                 </a>
               </span>
-              <p className="pt-2">{profile.occupation}</p>
+              <p className="pt-2 dark:text-white">{profile.occupation}</p>
             </div>
           </div>
         ))}
