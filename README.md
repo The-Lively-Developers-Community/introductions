@@ -21,3 +21,4 @@
 - Hello, My name is Gekko Wrld. Software Engineer and Open Source contributor! - [Gekko Wrld](https://github.com/gekkowrld)
 - Hey everyone! I am Akanni Emmanuel. I am software engineering student at ALX! proficient with languages such as C, C++, Python, JavaScript, Typescript, SQL etc and familiar with stacks like Express, React, Flask (OpenGL for C++). I'm looking forward to my graduation (October 2023) and getting an internship role! - [Akanni Emmanuel](https://github.com/Akanni5/)
 - Hello, I am Gambhir Sharma a Full-Stack Developer from India. Well-skilled with languages like JavaScript, TypeScript, Python, and C++ and familiar with stacks like React, Express, Opencv etc - [Gambhir Sharma](https://github.com/gambhirsharma)
+- Heya folks, I am Hemant a passionate frontend developer love to create beautiful designs and clones, here is my portfolio - [Hemant](https://itsmehemant.tech), if you like my work then give me a follow on twitter.
