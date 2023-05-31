@@ -1,3 +1,4 @@
+- Hello! I am Adwait Kulkarni, a 3rd-year computer science major studying at the University of British Columbia in Vancouver, Canada. I am proficient in full-stack development and have experience with the MERN stack. Currently I am working with Java backend, particularly Spring Boot and building apps using the same. [Adwait Kulkarni](https://github.com/AdwaitKulkarni58)
 - I am Kalp Prajapati. I am software developer and open source contributor. - [Kalp Prajapati](https://github.com/munnokd)
 - Hey this is Tirthan Prajapati, from Vit-Bhopal interested in computer science. - [Tirthan Prajapati](https://github.com/tirthanprajapati)
 - Hey!, I am Kendall Pinto, || a passionate Web Developer. I also work on Python, etc. || - [Kendall Pinto](https//github.com/KendallDoesCoding)
