@@ -1,4 +1,3 @@
-- Salutations, my friend. I am Nina (realguystuff). I am a software developer and a network owner. I created the first game of The Lively Developers Community. - [Nina (realguystuff)](https://github.com/realguystuff)
 - I am Kalp Prajapati. I am software developer and open source contributor. - [Kalp Prajapati](https://github.com/munnokd)
 - Hey this is Tirthan Prajapati, a sophomore at Vit-B interested in computer science. - [Tirthan Prajapati](https://github.com/tirthanprajapati)
 - Hey!, I am Kendall Pinto, || a passionate Web Developer. I also work on Python, etc. || - [Kendall Pinto](https//github.com/KendallDoesCoding)
@@ -25,3 +24,4 @@
 - Heya folks, I am Hemant a passionate frontend developer love to create beautiful designs and clones, Check out my [portfolio](https://itsmehemant.tech). If you like my work then give me a follow on [Twitter](https://twitter.com/hemantwasthere). - [Hemant](https://twitter.com/hemantwasthere)
 - Hello, I am Pushkaraj Kulkarni, a professional Full-Stack Developer and an open-source contributor. I specialize in web development and am currently available for freelance work. My skill set includes expertise in programming languages such as JavaScript, Typescript, and Python. I'm specialized in frameworks like React, Next.js, and Express.js - [Pushkaraj Kulkarni](https://github.com/pushkaraj2007)
 - Hey 👋, I am Piethon. || A passionate Bug Hunter from Asia, I use ARCH btw hehe. || -[Piethon](https://github.com/Pyth0nHere)
+- Salutations, my friend. I am Nina (realguystuff). I am a software developer and a network owner. I created the first game of The Lively Developers Community. - [Nina (realguystuff)](https://github.com/realguystuff)
