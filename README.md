@@ -1,6 +1,6 @@
 # Community Introductions
 
-| Name     |      Bio      | LinkedIn  |
+| Name     |      Bio      | Socials   |
 |----------|:-------------:|---------: |
 | [Kalp Prajapati](https://github.com/munnokd)             | I am Kalp Prajapati. I am software developer and open source contributor.           | |
 | [Tirthan Prajapati](https://github.com/tirthanprajapati) | Hey this is Tirthan Prajapati, from Vit-Bhopal interested in computer science.      | |
