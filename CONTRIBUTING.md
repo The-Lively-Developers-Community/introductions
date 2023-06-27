@@ -1,43 +1,59 @@
 # Contributing Guidelines
 
 Thank you for your interest in contributing to this project! We appreciate your efforts to make this project better.
-
-To contribute, please follow these guidelines:
+**Please fully read through the guidelines and make sure you do not miss anything.**
 
 ## Types of Contributions
-- Add your introduction: Add your Introduction!
-- Bug Fixes: If you find a bug, please create a detailed bug report or, even better, submit a pull request with a bug fix.
-- Feature Requests: If you have an idea for a new feature, please create an issue describing your proposal or, if you can, submit a pull request with the implementation.
+
+- Add your introduction: Add your introduction and socials to the list, which is the main aim of this repository.
+- Bug fixes: If you find a bug, please create a detailed bug report or, even better, submit a pull request with a bug fix.
+- Feature requests: If you have an idea for a new feature, please create an issue describing your proposal or, if you can, submit a pull request with the implementation.
 - Documentation: If you find any errors in the documentation or want to improve it, please submit a pull request with the changes.
-- Code Improvements: If you see any opportunities for code refactoring, optimization, or better practices, please feel free to submit a pull request.
+- Code improvements: If you see any opportunities for code refactoring, optimization, or better practices, please feel free to submit a pull request.
+
+When adding new features, fixing bugs, or doing any changes, **please create an issue first to discuss the changes without wasting your time.** If you're adding your introduction, there's no need to create an issue.
 
 ## Getting Started
 
-1. Fork the repository to your GitHub account.
-2. Clone the forked repository to your local machine.
+1. [Fork](https://github.com/The-Lively-Developers-Community/introductions/fork) the repository to your GitHub account.
+2. Clone the forked repository to your local machine by using [Git](https://git-scm.com).
+
+```bash
+git clone https://github.com/<your-username>/introductions.git
+```
+
 3. Create a new branch for your contribution: `git checkout -b your-branch-name`
 4. Make your changes, following the project's coding style and guidelines.
 5. Test your changes thoroughly.
-6. Commit your changes with a descriptive commit message: `git commit -m "Add your commit message here"`.
-7. Push your changes to your forked repository:
-8. Open a pull request against the main repository's `main` branch.
+6. Commit your changes with a descriptive commit message.
 
-## Adding Introductions
+```bash
+git commit -m "Add your commit message here"
+```
 
-To add your introduction to the community introductions table in the README.md file, follow these steps:
+7. Push your changes to your fork.
 
-1. Open the README.md file in the project repository.
-2. Locate the "Community Introductions" section in the file.
-3. Add a new row to the table by following this format:
+```bash
+git push origin <branch_name>:<branch_name>
+```
 
-Replace `Your Name` with your name and `Your Socials Link` with a link to your social account (e.g., GitHub, Twitter, LinkedIn).
-Replace `Your Introduction` with a brief introduction about yourself.
+8. Create a [pull request](https://github.com/The-Lively-Developers-Community/introductions/compare) in the main repository to compare your changes.
+9. You're done now! :tada: You just have to wait until the maintainers review your PR.
 
-e.g. | [Kalp Prajapati](https://github.com/munnokd) | I am Kalp Prajapati. I am software developer and open source contributor. | |
+## Adding your introduction
 
-4. Make sure to add only one social account link per introduction.
-5. Ensure that you provide a unique introduction per person.
-6. Save the changes to the README.md file.
+Follow the steps below to add your introduction to the repository.
+
+1. Open the `README.md` file.
+2. Use the following template and add it to the end of the file.
+
+```markdown
+| [Your name](<GitHub link>) | Bio | Socials (maximum 3 for now; links such as LinkTree/Free can be used).
+```
+
+3. Your name will be shown as a [Markdown Table](https://www.tablesgenerator.com/markdown_tables) on the readme file.
+4. Commit and push your changes as explained above.
+5. Create a pull request in the repository.
 
 ## Code Guidelines
 
@@ -56,8 +72,6 @@ If you encounter any issues or have suggestions for improvements, please create 
 - Join discussions and share your knowledge and experience.
 - Contribute positively to the project's community and growth.
 
-Thank you again for your contributions! We appreciate your time and effort in making this project better.
+Thank you again for your contributions! We appreciate your time and effort in making this project better. 🚀
 
 Happy coding!
-
-
