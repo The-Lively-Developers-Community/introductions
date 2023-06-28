@@ -48,8 +48,10 @@ Follow the steps below to add your introduction to the repository.
 2. Use the following template and add it to the end of the file.
 
 ```markdown
-| [Your name](<GitHub link>) | Bio | Socials (maximum 3 for now; links such as LinkTree/Free can be used).
+| [Your name](<GitHub link>) | Bio | Socials |
 ```
+
+You can add a maximum of 3 socials for now, or a single link such as LinkTree/Free.
 
 3. Your name will be shown as a [Markdown Table](https://www.tablesgenerator.com/markdown_tables) on the readme file.
 4. Commit and push your changes as explained above.
