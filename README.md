@@ -45,3 +45,4 @@
 | [Temitope Sam](https://github.com/Temitopesam1) | Hey beautiful people, I'm a software Engineer proficient in C, Django, Node.js, MongoDB, MySQL, ...| || [Twitter](https://twitter.com/Temitopesam1) |
 [sivasaisilla](https://github.com/sivasaisilla)
 [kiranrega](https://github.com/kiranrega) || Hi Everyone, myself Kiran Kumar Rega and I am web developer with 1.5 years of experience lot of enthusiasm to learn new things on the go. I know  Javascript, React, python. I am currently learning C. I am new to opensource. Check out my profile. || [Twitter](https://twitter.com/kiranrega) |
+| [Kunmi Oye](https://github.com/Jatamer) | Howdy folks 🤠! Kunmi here, a Computer Engineering undergrad, and an Offensive Security enthusiast. Stoked to be here with y'all!  | [Twitter](https://twitter.com/SolakunmiO) |
