@@ -44,4 +44,4 @@
 | [sivasaisilla](https://github.com/sivasaisilla)          | Hey Everyone, myself Sivasai and I am web developer with lot of enthusiasm to learn new things on the go. I know C++, Javascript, React, GoLang, MongoDB and Solidity. I am new to opensource. Check out my profile. | |
 | [Temitope Sam](https://github.com/Temitopesam1) | Hey beautiful people, I'm a software Engineer proficient in C, Django, Node.js, MongoDB, MySQL, ...| || [Twitter](https://twitter.com/Temitopesam1) |
 [sivasaisilla](https://github.com/sivasaisilla)
-[kiranrega](https://github.com/kiranrega)
+[kiranrega](https://github.com/kiranrega) || Hi Everyone, myself Kiran Kumar Rega and I am web developer with 1.5 years of experience lot of enthusiasm to learn new things on the go. I know  Javascript, React, python. I am currently learning C. I am new to opensource. Check out my profile. || [Twitter](https://twitter.com/kiranrega) |
